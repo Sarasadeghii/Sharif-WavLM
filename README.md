@@ -1,7 +1,7 @@
 # Sharif_WavLM
-**In this repository, the wavLM model is used for quality and poor quality data for speaker verification task, and the PyCM library is used for evaluation.**
+**for Speaker Verification**
 ----------------------------------------------------------------------------------------
-In this repository, an attempt was made to examine all aspects of the wav2vec2 model.
+In this repository, the wavLM model is used for quality and poor quality data for speaker verification task, and the PyCM library is used for evaluation.
 ## Table of Contents
 1. [General Info](#general-info)
 2. [How to Use](#how-to-use)
@@ -25,6 +25,9 @@ In this repository, an attempt was made to examine all aspects of the wav2vec2 m
 ***
 for high quality(microphone) data: use WavLM_base_AGP
 for poor quality(telephony) data: use WavLM_base_telephony
+## Comparison
+***
+Loading ....	:hourglass_flowing_sand:
 
 ## Useful Links
 ***
